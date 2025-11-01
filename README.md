@@ -1,0 +1,1 @@
+# Skillbox_JavaScript-module-5-Introduction-to-the-DOM_task-1
